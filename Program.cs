@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//這是中文註解
+Console.WriteLine("Hello, 傑報!");
